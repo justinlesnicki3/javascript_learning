@@ -1,0 +1,12 @@
+let a = 2;
+let b = '2';
+
+console.log(a == b);
+
+console.log(a === b);
+
+console.log(1 == '1');
+
+console.log(1 === '1');
+
+
